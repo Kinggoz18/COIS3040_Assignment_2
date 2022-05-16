@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "C6fg5KEJc15aBGkFa75Kbhnunjb4NlcoH6RjIoleJdVfZgt3KNBXk4JcruCAEjWkqc6qG1wiTenMK1DE5ZE5jg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cmuon\\OneDrive\\Desktop\\COIS 3040\\Assignment\\COIS3040_Assignment_2\\Assignment 2\\Discovery_Service\\Discovery_Service\\SupportQuestionsApplication_DiscoveryService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cmuon\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

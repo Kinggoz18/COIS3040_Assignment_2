@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zuwIUlOBHZwoLoTAcLdpMfEzWSuAaUF9RZ9GdcFcOQkQ0oIx5AtePNSGL/XYpg3kYC1802d3KiJ0HkwCso1mHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cmuon\\OneDrive\\Desktop\\COIS 3040\\Assignment\\COIS3040_Assignment_2\\Assignment 2\\Application_Peer\\Application_Peer\\Application_Peer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cmuon\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

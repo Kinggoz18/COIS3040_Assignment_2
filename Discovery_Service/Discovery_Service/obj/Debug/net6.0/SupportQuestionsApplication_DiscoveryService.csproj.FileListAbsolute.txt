@@ -1,0 +1,17 @@
+C:\Users\cmuon\OneDrive\Desktop\COIS 3040\Assignment\COIS3040_Assignment_2\Discovery_Service\Discovery_Service\bin\Debug\net6.0\SupportQuestionsApplication_DiscoveryService.exe
+C:\Users\cmuon\OneDrive\Desktop\COIS 3040\Assignment\COIS3040_Assignment_2\Discovery_Service\Discovery_Service\bin\Debug\net6.0\SupportQuestionsApplication_DiscoveryService.deps.json
+C:\Users\cmuon\OneDrive\Desktop\COIS 3040\Assignment\COIS3040_Assignment_2\Discovery_Service\Discovery_Service\bin\Debug\net6.0\SupportQuestionsApplication_DiscoveryService.runtimeconfig.json
+C:\Users\cmuon\OneDrive\Desktop\COIS 3040\Assignment\COIS3040_Assignment_2\Discovery_Service\Discovery_Service\bin\Debug\net6.0\SupportQuestionsApplication_DiscoveryService.dll
+C:\Users\cmuon\OneDrive\Desktop\COIS 3040\Assignment\COIS3040_Assignment_2\Discovery_Service\Discovery_Service\bin\Debug\net6.0\ref\SupportQuestionsApplication_DiscoveryService.dll
+C:\Users\cmuon\OneDrive\Desktop\COIS 3040\Assignment\COIS3040_Assignment_2\Discovery_Service\Discovery_Service\bin\Debug\net6.0\SupportQuestionsApplication_DiscoveryService.pdb
+C:\Users\cmuon\OneDrive\Desktop\COIS 3040\Assignment\COIS3040_Assignment_2\Discovery_Service\Discovery_Service\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\cmuon\OneDrive\Desktop\COIS 3040\Assignment\COIS3040_Assignment_2\Discovery_Service\Discovery_Service\obj\Debug\net6.0\SupportQuestionsApplication_DiscoveryService.csproj.AssemblyReference.cache
+C:\Users\cmuon\OneDrive\Desktop\COIS 3040\Assignment\COIS3040_Assignment_2\Discovery_Service\Discovery_Service\obj\Debug\net6.0\SupportQuestionsApplication_DiscoveryService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmuon\OneDrive\Desktop\COIS 3040\Assignment\COIS3040_Assignment_2\Discovery_Service\Discovery_Service\obj\Debug\net6.0\SupportQuestionsApplication_DiscoveryService.AssemblyInfoInputs.cache
+C:\Users\cmuon\OneDrive\Desktop\COIS 3040\Assignment\COIS3040_Assignment_2\Discovery_Service\Discovery_Service\obj\Debug\net6.0\SupportQuestionsApplication_DiscoveryService.AssemblyInfo.cs
+C:\Users\cmuon\OneDrive\Desktop\COIS 3040\Assignment\COIS3040_Assignment_2\Discovery_Service\Discovery_Service\obj\Debug\net6.0\SupportQuestionsApplication_DiscoveryService.csproj.CoreCompileInputs.cache
+C:\Users\cmuon\OneDrive\Desktop\COIS 3040\Assignment\COIS3040_Assignment_2\Discovery_Service\Discovery_Service\obj\Debug\net6.0\SupportQuestionsApplication_DiscoveryService.csproj.CopyComplete
+C:\Users\cmuon\OneDrive\Desktop\COIS 3040\Assignment\COIS3040_Assignment_2\Discovery_Service\Discovery_Service\obj\Debug\net6.0\SupportQuestionsApplication_DiscoveryService.dll
+C:\Users\cmuon\OneDrive\Desktop\COIS 3040\Assignment\COIS3040_Assignment_2\Discovery_Service\Discovery_Service\obj\Debug\net6.0\ref\SupportQuestionsApplication_DiscoveryService.dll
+C:\Users\cmuon\OneDrive\Desktop\COIS 3040\Assignment\COIS3040_Assignment_2\Discovery_Service\Discovery_Service\obj\Debug\net6.0\SupportQuestionsApplication_DiscoveryService.pdb
+C:\Users\cmuon\OneDrive\Desktop\COIS 3040\Assignment\COIS3040_Assignment_2\Discovery_Service\Discovery_Service\obj\Debug\net6.0\SupportQuestionsApplication_DiscoveryService.genruntimeconfig.cache
